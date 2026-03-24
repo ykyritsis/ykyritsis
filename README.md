@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Yiannis 👋</h1>
+<h1 align="center">ykyritsis</h1>
 
 <p align="center">
   <b>Data · AI Agents · IoT · Mobile & Web Development</b><br/>
