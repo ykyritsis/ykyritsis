@@ -1,60 +1,66 @@
-<h1 align="center">ykyritsis</h1>
-
 <p align="center">
-  <b>Data · AI Agents · IoT · Mobile & Web Development</b><br/>
-  Building intelligent systems and polished products — from embedded sensors to App Store apps.
+  <img src="assets/header.svg" width="100%" alt="ykyritsis — Developer. Useful software, from idea to everyday use." />
 </p>
 
 <p align="center">
-  <a href="https://ykcompany.com.au"><img src="https://img.shields.io/badge/Portfolio-ykcompany.com.au-black?style=for-the-badge&logo=safari&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yiannis-kyritsis-69605b38b/"><img src="https://img.shields.io/badge/LinkedIn-Yiannis%20Kyritsis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://apps.apple.com/au/app/carstomize/id6755451417"><img src="https://img.shields.io/badge/App%20Store-CarStomize-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+  <a href="https://ykcompany.com.au"><b>Portfolio</b></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/yiannis-kyritsis-69605b38b/"><b>LinkedIn</b></a> &nbsp; / &nbsp;
+  <a href="https://apps.apple.com/au/app/carstomize/id6755451417"><b>CarStomize on the App Store</b></a>
 </p>
 
+### Hi, I'm Yiannis.
+
+I'm a developer who enjoys turning ideas into software people can use — mobile
+apps, browser tools, desktop utilities and the occasional fix for an old favourite.
+My interests span AI integrations, data, connected hardware and web development.
+
+I like working across the whole problem: how something looks, how it behaves,
+and what happens when it meets real-world constraints. Cars and PC gaming also
+find their way into what I build.
+
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://apps.apple.com/au/app/carstomize/id6755451417">CarStomize</a></h3>
+<p>Visualise vehicle customisations — wheels, paint and body styling — in an iOS app available on the App Store.</p>
+<p><sub>MOBILE PRODUCT · AUTOMOTIVE VISUALISATION</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ykyritsis/ChatGPT-code-preview">ChatGPT Code Preview</a></h3>
+<p>A Chrome extension for previewing HTML, CSS and JavaScript inside ChatGPT, with resizable previews and code export.</p>
+<p><sub>JAVASCRIPT · BROWSER EXTENSIONS · DEVELOPER TOOLS</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ykyritsis/amd-scaling-hotkeys">AMD Scaling Hotkeys</a></h3>
+<p>A Windows tray utility for switching Radeon GPU scaling modes using global hotkeys.</p>
+<p><sub>C# · WINDOWS · DESKTOP UTILITIES</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ykyritsis/pes-2017-4k-fix">PES 2017 4K Fix</a></h3>
+<p>A documented dgVoodoo2 configuration for 4K borderless play, with an optional ReShade preset and notes on experimental results.</p>
+<p><sub>PC GAMING · GRAPHICS CONFIGURATION · TROUBLESHOOTING</sub></p>
+</td>
+</tr>
+</table>
+
+Also exploring Android development with **[Conflict Tracker](https://github.com/ykyritsis/conflicttrackerandroidapp)**, built with Kotlin.
+
+## What I bring to a project
+
+- **Product development:** taking an idea through interface design, implementation and iteration.
+- **Practical tooling:** browser extensions and desktop utilities that make everyday tasks easier.
+- **Integration and investigation:** connecting systems, testing assumptions and documenting what actually works.
+- **Curiosity across platforms:** moving between mobile, web and desktop to use the right tools for the problem.
+
+**Languages & tools:** Swift / SwiftUI · Kotlin · C# · JavaScript / TypeScript · Python · Git
+
+**Exploring:** AI agents and automation · data workflows · IoT · graphics and game compatibility
+
 ---
 
-### 🧠 What I Work On
-
-- 🤖 **AI Integration & Agents** — building LLM-powered tools and autonomous workflows
-- 📊 **Data** — pipelines, analysis, and making sense of complex datasets
-- 📡 **IoT** — connecting hardware to intelligent software systems
-- 📱 **Mobile** — iOS (SwiftUI) & Android (Kotlin) apps shipped to production
-- 🌐 **Web** — full-stack development with modern JS/TS frameworks
-
----
-
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-0062D4?style=flat-square&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | |
-|---|---|---|
-| 🔧 **[ChatGPT Code Preview](https://github.com/ykyritsis/ChatGPT-code-preview)** | Artifacts-like Chrome extension for ChatGPT — 117+ stars | ⭐ |
-| 🚗 **[CarStomize](https://apps.apple.com/au/app/carstomize/id6755451417)** | iOS app for car customisation — live on the App Store | 📱 |
-| 🗺️ **[Conflict Tracker](https://github.com/ykyritsis/conflicttrackerandroidapp)** | Android app built with Kotlin | 🤖 |
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ykyritsis&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykyritsis&theme=radical" />
-</p>
-
----
-
-<p align="center">
-  <i>Open to collaborations, interesting problems, and good coffee ☕</i>
-</p>
+Have an interesting problem or a project to collaborate on?
+Find me through **[my portfolio](https://ykcompany.com.au)** or **[LinkedIn](https://www.linkedin.com/in/yiannis-kyritsis-69605b38b/)**.

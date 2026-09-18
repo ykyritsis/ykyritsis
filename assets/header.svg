@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">ykyritsis — Developer</title>
+  <desc id="desc">Useful software, from idea to everyday use. Mobile, web and desktop.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b2b"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#a7f3d0"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <rect x="48" y="47" width="36" height="4" rx="2" fill="url(#accent)"/>
+  <text x="100" y="55" font-family="monospace" font-size="15" letter-spacing="3" fill="#99f6e4">DEVELOPER</text>
+  <text x="48" y="139" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-2" fill="#f8fafc">ykyritsis</text>
+  <text x="50" y="190" font-family="Segoe UI,Arial,sans-serif" font-size="25" fill="#cbd5e1">Useful software, from idea to everyday use.</text>
+  <text x="50" y="249" font-family="monospace" font-size="14" letter-spacing="2" fill="#94a3b8">MOBILE / WEB / DESKTOP</text>
+  <g fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".8">
+    <rect x="906" y="68" width="210" height="146" rx="12"/>
+    <path d="M906 100h210M981 139l-17 17 17 17M1041 139l17 17-17 17M1020 129l-18 54M979 238h67M1012 214v24"/>
+  </g>
+  <g fill="#64748b"><circle cx="925" cy="85" r="3"/><circle cx="938" cy="85" r="3"/><circle cx="951" cy="85" r="3"/></g>
+</svg>
