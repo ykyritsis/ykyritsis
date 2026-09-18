@@ -10,10 +10,11 @@
 
 ### Hi, I'm Yiannis.
 
-I'm a **recent graduate and software developer seeking graduate and junior
-developer opportunities**, with hands-on project experience across mobile apps,
-browser extensions and Windows utilities. I've published an iOS app and share
-practical tools and experiments here on GitHub.
+I'm a **recent Bachelor of Computer Science (Professional) graduate seeking
+graduate and junior developer opportunities**. My background combines
+**data-science experience gained during a work placement** with hands-on projects
+across mobile apps, browser extensions and Windows utilities. I've published an
+iOS app and share practical tools and experiments here on GitHub.
 
 I'm particularly interested in **AI application development, software engineering
 and automation** — building useful products and learning how to make them reliable.
@@ -68,9 +69,12 @@ Also exploring Android development with **[Conflict Tracker](https://github.com/
 | Web & browser tooling | JavaScript, TypeScript, HTML and CSS |
 | Desktop development | C#, Windows utilities and workflow improvements |
 | Programming & version control | Python, Git and GitHub |
+| Data science | Practical experience gained during a work placement |
+| Development environments | Conventional IDEs and AI-assisted tools, including Cursor, Windsurf and Codex |
 | AI development interests | AI integrations, agents, automation and developer tooling |
 
-My projects demonstrate practical implementation, debugging and documentation.
+I'm comfortable working with both conventional and AI-assisted development
+workflows. My projects demonstrate practical implementation, debugging and documentation.
 I'm keen to develop those skills further in a team through code review,
 mentorship and work on production systems.
 
