@@ -10,9 +10,13 @@
 
 ### Hi, I'm Yiannis.
 
-I'm a developer who enjoys turning ideas into software people can use — mobile
-apps, browser tools, desktop utilities and the occasional fix for an old favourite.
-My interests span AI integrations, data, connected hardware and web development.
+I'm a **recent graduate and software developer seeking graduate and junior
+developer opportunities**, with hands-on project experience across mobile apps,
+browser extensions and Windows utilities. I've published an iOS app and share
+practical tools and experiments here on GitHub.
+
+I'm particularly interested in **AI application development, software engineering
+and automation** — building useful products and learning how to make them reliable.
 
 I like working across the whole problem: how something looks, how it behaves,
 and what happens when it meets real-world constraints. Cars and PC gaming also
@@ -56,11 +60,23 @@ Also exploring Android development with **[Conflict Tracker](https://github.com/
 - **Integration and investigation:** connecting systems, testing assumptions and documenting what actually works.
 - **Curiosity across platforms:** moving between mobile, web and desktop to use the right tools for the problem.
 
-**Languages & tools:** Swift / SwiftUI · Kotlin · C# · JavaScript / TypeScript · Python · Git
+## Technical skills & interests
 
-**Exploring:** AI agents and automation · data workflows · IoT · graphics and game compatibility
+| Area | Technologies and focus |
+| --- | --- |
+| Mobile development | Swift / SwiftUI, Kotlin; iOS and Android projects |
+| Web & browser tooling | JavaScript, TypeScript, HTML and CSS |
+| Desktop development | C#, Windows utilities and workflow improvements |
+| Programming & version control | Python, Git and GitHub |
+| AI development interests | AI integrations, agents, automation and developer tooling |
+
+My projects demonstrate practical implementation, debugging and documentation.
+I'm keen to develop those skills further in a team through code review,
+mentorship and work on production systems.
 
 ---
 
-Have an interesting problem or a project to collaborate on?
-Find me through **[my portfolio](https://ykcompany.com.au)** or **[LinkedIn](https://www.linkedin.com/in/yiannis-kyritsis-69605b38b/)**.
+**Hiring for a graduate or junior developer role?** I'd welcome a conversation
+about software, mobile or AI application development opportunities.
+See **[my portfolio](https://ykcompany.com.au)** or connect on
+**[LinkedIn](https://www.linkedin.com/in/yiannis-kyritsis-69605b38b/)**.
