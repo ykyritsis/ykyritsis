@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">Yiannis Kyritsis — Software Developer</title>
-  <desc id="desc">Useful software, from idea to everyday use. Mobile, web and desktop.</desc>
+  <desc id="desc">Computer Science graduate. Mobile, web and desktop development.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b2b"/><stop offset="1" stop-color="#111827"/></linearGradient>
     <linearGradient id="accent"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#a7f3d0"/></linearGradient>
@@ -11,7 +11,7 @@
   <rect x="48" y="47" width="36" height="4" rx="2" fill="url(#accent)"/>
   <text x="100" y="55" font-family="monospace" font-size="15" letter-spacing="3" fill="#99f6e4">SOFTWARE DEVELOPER</text>
   <text x="48" y="139" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-2" fill="#f8fafc">Yiannis Kyritsis</text>
-  <text x="50" y="190" font-family="Segoe UI,Arial,sans-serif" font-size="25" fill="#cbd5e1">Useful software, from idea to everyday use.</text>
+  <text x="50" y="190" font-family="Segoe UI,Arial,sans-serif" font-size="25" fill="#cbd5e1">Computer Science graduate</text>
   <text x="50" y="249" font-family="monospace" font-size="14" letter-spacing="2" fill="#94a3b8">MOBILE / WEB / DESKTOP</text>
   <g fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".8">
     <rect x="906" y="68" width="210" height="146" rx="12"/>
