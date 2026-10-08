@@ -1,86 +1,79 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="ykyritsis — Developer. Useful software, from idea to everyday use." />
+  <img src="assets/header.svg" width="100%" alt="Yiannis Kyritsis — Software Developer. Useful software, from idea to everyday use." />
 </p>
 
 <p align="center">
   <a href="https://ykcompany.com.au"><b>Portfolio</b></a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/yiannis-kyritsis-69605b38b/"><b>LinkedIn</b></a> &nbsp; / &nbsp;
+  <a href="#selected-projects"><b>Selected projects</b></a> &nbsp; / &nbsp;
   <a href="https://apps.apple.com/au/app/carstomize/id6755451417"><b>CarStomize on the App Store</b></a>
 </p>
 
-### Hi, I'm Yiannis.
+## Hi, I'm Yiannis.
 
-I'm a **recent Bachelor of Computer Science (Professional) graduate seeking
-graduate and junior developer opportunities**. My background combines
-**data-science experience gained during a work placement** with hands-on projects
-across mobile apps, browser extensions and Windows utilities. I've published an
-iOS app and share practical tools and experiments here on GitHub.
+I'm a **Computer Science (Professional) graduate** building mobile apps, browser extensions and Windows software. My experience includes a **data-science work placement**, a published iOS app and open-source tools that solve practical problems.
 
-I'm particularly interested in **AI application development, software engineering
-and automation** — building useful products and learning how to make them reliable.
+I enjoy taking a product from its first interface through implementation, debugging and iteration. I'm particularly interested in **software engineering, AI application development and automation**.
 
-I like working across the whole problem: how something looks, how it behaves,
-and what happens when it meets real-world constraints. Cars and PC gaming also
-find their way into what I build.
+**Based in Australia · Open to graduate and junior developer opportunities**
 
-## Selected work
+## Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://apps.apple.com/au/app/carstomize/id6755451417">CarStomize</a></h3>
-<p>Visualise vehicle customisations — wheels, paint and body styling — in an iOS app available on the App Store.</p>
-<p><sub>MOBILE PRODUCT · AUTOMOTIVE VISUALISATION</sub></p>
+<p>An iOS app for visualising vehicle customisations, including wheels, paint and body styling. Published on the App Store.</p>
+<p><strong>Demonstrates:</strong> mobile product development, interface design and taking an app to release.</p>
+<p><sub>iOS · MOBILE DEVELOPMENT · PRODUCT DESIGN</sub></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/ykyritsis/ChatGPT-code-preview">ChatGPT Code Preview</a></h3>
-<p>A Chrome extension for previewing HTML, CSS and JavaScript inside ChatGPT, with resizable previews and code export.</p>
-<p><sub>JAVASCRIPT · BROWSER EXTENSIONS · DEVELOPER TOOLS</sub></p>
+<p>A Chrome extension that brings HTML, CSS and JavaScript previews into ChatGPT, with resizable panels and code export.</p>
+<p><strong>Demonstrates:</strong> browser integration, interactive interfaces and developer tooling.</p>
+<p><sub>JAVASCRIPT · HTML · CSS · CHROME EXTENSIONS</sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/ykyritsis/amd-scaling-hotkeys">AMD Scaling Hotkeys</a></h3>
-<p>A Windows tray utility for switching Radeon GPU scaling modes using global hotkeys.</p>
-<p><sub>C# · WINDOWS · DESKTOP UTILITIES</sub></p>
+<h3><a href="https://github.com/ykyritsis/xbox-cloud-preview-on-pc">Xbox Preview UI</a></h3>
+<p>An unofficial Windows game launcher with controller navigation, library discovery, artwork caching and game detail pages. Available as a community beta.</p>
+<p><strong>Demonstrates:</strong> desktop UI development, service integration and local data handling.</p>
+<p><sub>JAVASCRIPT · WINDOWS · CONTROLLER INTERFACES</sub></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/ykyritsis/pes-2017-4k-fix">PES 2017 4K Fix</a></h3>
-<p>A documented dgVoodoo2 configuration for 4K borderless play, with an optional ReShade preset and notes on experimental results.</p>
-<p><sub>PC GAMING · GRAPHICS CONFIGURATION · TROUBLESHOOTING</sub></p>
+<h3><a href="https://github.com/ykyritsis/amd-scaling-hotkeys">AMD Scaling Hotkeys</a></h3>
+<p>A Windows tray utility for switching Radeon GPU scaling modes using global hotkeys and AMD's ADLX display API.</p>
+<p><strong>Demonstrates:</strong> native API integration, desktop utilities and practical workflow automation.</p>
+<p><sub>C# · WINDOWS · AMD ADLX</sub></p>
 </td>
 </tr>
 </table>
 
-Also exploring Android development with **[Conflict Tracker](https://github.com/ykyritsis/conflicttrackerandroidapp)**, built with Kotlin.
+**More to explore:** [Conflict Tracker](https://github.com/ykyritsis/conflicttrackerandroidapp), an Android project built with Kotlin, and [PES 2017 4K Fix](https://github.com/ykyritsis/pes-2017-4k-fix), a documented graphics configuration and troubleshooting project.
 
-## What I bring to a project
+## Technical skills
 
-- **Product development:** taking an idea through interface design, implementation and iteration.
-- **Practical tooling:** browser extensions and desktop utilities that make everyday tasks easier.
-- **Integration and investigation:** connecting systems, testing assumptions and documenting what actually works.
-- **Curiosity across platforms:** moving between mobile, web and desktop to use the right tools for the problem.
-
-## Technical skills & interests
-
-| Area | Technologies and focus |
+| Area | Technologies & experience |
 | --- | --- |
-| Mobile development | Swift / SwiftUI, Kotlin; iOS and Android projects |
-| Web & browser tooling | JavaScript, TypeScript, HTML and CSS |
-| Desktop development | C#, Windows utilities and workflow improvements |
-| Programming & version control | Python, Git and GitHub |
-| Data science | Practical experience gained during a work placement |
-| Development environments | Conventional IDEs and AI-assisted tools, including Cursor, Windsurf and Codex |
-| AI development interests | AI integrations, agents, automation and developer tooling |
+| Mobile | Swift, SwiftUI and Kotlin · iOS and Android projects |
+| Web & browser extensions | JavaScript, TypeScript, HTML and CSS |
+| Desktop & integrations | C# · Windows utilities · native APIs and service integration |
+| Programming & data | Python · data-science experience from a work placement |
+| Development workflow | Git, GitHub · debugging, documentation and iterative development |
 
-I'm comfortable working with both conventional and AI-assisted development
-workflows. My projects demonstrate practical implementation, debugging and documentation.
-I'm keen to develop those skills further in a team through code review,
-mentorship and work on production systems.
+## How I work
+
+- **Build around a practical need.** Turn everyday frustrations into focused apps and tools.
+- **Connect the interface to the implementation.** Work across user experience, application behaviour and integrations.
+- **Investigate and document.** Test assumptions, troubleshoot platform constraints and explain limitations clearly.
+- **Keep learning.** Use conventional and AI-assisted development tools, and grow through feedback and code review.
+
+I'm exploring AI integrations, agents and automation, with a focus on useful applications and reliable behaviour.
 
 ---
 
-**Hiring for a graduate or junior developer role?** I'd welcome a conversation
-about software, mobile or AI application development opportunities.
-See **[my portfolio](https://ykcompany.com.au)** or connect on
-**[LinkedIn](https://www.linkedin.com/in/yiannis-kyritsis-69605b38b/)**.
+### Let's connect
+
+I'm looking for a **graduate or junior developer role** where I can contribute to software, mobile or AI application projects and learn from an experienced team.
+
+Visit **[my portfolio](https://ykcompany.com.au)** to learn more about my work and get in touch.
