@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Yiannis Kyritsis — Software Developer. Useful software, from idea to everyday use." />
+  <img src="assets/header.svg?v=2" width="100%" alt="Yiannis Kyritsis — Software Developer. Useful software, from idea to everyday use." />
 </p>
 
 <p align="center">
