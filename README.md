@@ -27,14 +27,14 @@ Bachelor of Computer Science (Professional), with data-science work placement ex
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/ykyritsis/ChatGPT-code-preview">ChatGPT Code Preview</a></h3>
-<p>A Chrome extension that brings HTML, CSS and JavaScript previews into ChatGPT, with resizable panels and code export.</p>
+<p>A Chrome extension that brings HTML, CSS and JavaScript previews into ChatGPT, with resizable panels and code export. 100+ GitHub stars.</p>
 <p><sub>JAVASCRIPT · HTML · CSS · CHROME EXTENSIONS</sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/ykyritsis/OmniDash">OmniDash</a></h3>
-<p>A controller-first Windows game launcher with nine console-inspired dashboards over one library from Steam, Epic, GOG, Amazon and Xbox. Packaged releases for desktop and handheld.</p>
+<p>A controller-first Windows game launcher with eight finished console-inspired dashboards (PS5 in progress) over one library from Steam, Epic, GOG, Amazon and Xbox. Packaged releases for desktop and handheld.</p>
 <p><sub>JAVASCRIPT · ELECTRON · WINDOWS · CONTROLLER INTERFACES</sub></p>
 </td>
 <td width="50%" valign="top">
@@ -43,9 +43,19 @@ Bachelor of Computer Science (Professional), with data-science work placement ex
 <p><sub>C# · WINDOWS · AMD ADLX</sub></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://ykyritsis.github.io/football-prediction-engine/">Touchline</a></h3>
+<p>A Rust football prediction engine and browser match centre: forecasts, match simulations, and club/player histories across 22 competitions.</p>
+<p><sub>RUST · DATA · BROWSER UI · GITHUB PAGES</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ykyritsis/conflicttrackerandroidapp">Conflict Tracker</a></h3>
+<p>An Android app that maps ACLED conflict events against World Bank country indicators, with severity filters, search and watchlists.</p>
+<p><sub>KOTLIN · ANDROID · MAPBOX · DATA</sub></p>
+</td>
+</tr>
 </table>
-
-**Other projects:** [Conflict Tracker](https://github.com/ykyritsis/conflicttrackerandroidapp) — an Android app in Kotlin that maps ACLED conflict events against World Bank country indicators.
 
 ## Technical skills
 
@@ -54,7 +64,7 @@ Bachelor of Computer Science (Professional), with data-science work placement ex
 | Mobile | Swift, SwiftUI and Kotlin · iOS and Android projects |
 | Web & browser extensions | JavaScript, TypeScript, HTML and CSS |
 | Desktop & integrations | C# · Windows utilities · native APIs and service integration |
-| Programming & data | Python · data-science experience from a work placement |
+| Programming & data | Python · Rust · data-science experience from a work placement |
 | Development workflow | Git, GitHub · debugging, documentation and iterative development |
 
 ---
