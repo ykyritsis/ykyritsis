@@ -33,7 +33,7 @@ Bachelor of Computer Science (Professional), with data-science work placement ex
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/ykyritsis/xbox-cloud-preview-on-pc">Xbox Preview UI</a></h3>
+<h3><a href="https://github.com/ykyritsis/xbox-cloud-preview-on-pc">OmniDash</a></h3>
 <p>An unofficial Windows game launcher with controller navigation, library discovery, artwork caching and game detail pages. Available as a community beta.</p>
 <p><sub>JAVASCRIPT · WINDOWS · CONTROLLER INTERFACES</sub></p>
 </td>
